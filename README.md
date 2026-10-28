@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Libramine, Minecraft plugin dev and the guy behind Voyage SMP :computer:<br>
+  <br> I'm Katze, CEO @ sploot.games and Minecraft plugin dev :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -26,6 +26,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
+- :rocket: CEO of **[sploot.games](https://sploot.games)**
 - :video_game: Running and developing **[Voyage SMP](https://voyagesmp.net)**: Lifesteal, FFA and more
 - :jigsaw: Writing Paper / Folia plugins and porting existing ones to Folia
 - :shield: Messing with anticheats and keeping cheaters out
@@ -34,4 +35,4 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Voyage SMP](https://img.shields.io/badge/-voyagesmp.net-5d9e33?style=flat-square&logo=minecraft&logoColor=white)](https://voyagesmp.net) [![Store](https://img.shields.io/badge/-Store-ffaa00?style=flat-square&logo=shopify&logoColor=white)](https://store.voyagesmp.net) [![GitHub](https://img.shields.io/badge/-libramine-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/libramine)
+[![sploot.games](https://img.shields.io/badge/-sploot.games-7b2ff7?style=flat-square&logo=googleplay&logoColor=white)](https://sploot.games) [![Voyage SMP](https://img.shields.io/badge/-voyagesmp.net-5d9e33?style=flat-square&logo=minecraft&logoColor=white)](https://voyagesmp.net) [![Store](https://img.shields.io/badge/-Store-ffaa00?style=flat-square&logo=shopify&logoColor=white)](https://store.voyagesmp.net) [![GitHub](https://img.shields.io/badge/-libramine-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/libramine)
